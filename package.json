@@ -1,5 +1,5 @@
 {
-  "name": "CBDC Token",
+  "name": "CBDCToken",
   "version": "1.0.0",
   "description": "Simple CBDC Token",
   "main": "app.js",
